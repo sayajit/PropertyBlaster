@@ -1,0 +1,2 @@
+# PropertyBlaster
+Property Details Centralized
